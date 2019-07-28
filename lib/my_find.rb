@@ -8,7 +8,7 @@ def my_find(collection)
 
     i += 1
   end 
-  if find.collection
+  if collection.find
     true
       return i
   end 
