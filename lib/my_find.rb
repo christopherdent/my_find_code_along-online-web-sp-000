@@ -8,8 +8,8 @@ def my_find(collection)
 
     i += 1
   end 
-if find.collection
-  true
-    return i
-
+  if find.collection
+    true
+      return i
+  end 
 end
